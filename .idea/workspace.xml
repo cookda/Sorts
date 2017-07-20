@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba5036a8-3332-49ea-b2eb-61c53d6f924a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,9 +22,12 @@
       <file leaf-file-name="InsertionSort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              <folding />
+            <state relative-caret-position="125">
+              <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -323,6 +327,14 @@
       <option name="presentableId" value="Default" />
       <updated>1500558739263</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit from Intellij to check integration of git&#10;">
+      <created>1500560540496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1500560540496</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -361,6 +373,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit from Intellij to check integration of git&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit from Intellij to check integration of git&#10;" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -368,9 +384,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="125">
+          <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
